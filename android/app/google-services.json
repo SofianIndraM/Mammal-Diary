@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057721143057",
+    "project_id": "mammalsapp",
+    "storage_bucket": "mammalsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057721143057:android:c4bb386a02e571ad5646b0",
+        "android_client_info": {
+          "package_name": "com.sofian.mammal_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057721143057-1gta56abiciibgh3b6keadtceoe6kt3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf8OfJS9XswjgLjpgq1uJVU7Z1RwJ-mtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057721143057-1gta56abiciibgh3b6keadtceoe6kt3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
